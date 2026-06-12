@@ -153,7 +153,6 @@ ABOUT THE DEVELOPER
 
 Fourth & Goal is the first work of JustinSane Games, a full time computer engineer who wanted to combine his love for Football and Roguelikes.
 
-
 -----------------------------------------------------------
 LINKS & PRESS COPIES
 -----------------------------------------------------------
@@ -161,7 +160,7 @@ LINKS & PRESS COPIES
 | | |
 |---|---|
 | **Steam / Wishlist** | https://store.steampowered.com/app/4466560/4th__Goal/ |
-| **Website** | [FILL IN: this page's URL] |
+| **Website** | https://github.com/JustinSane21/Justinsane21.github.io/blob/main/README.md |
 | **Discord** | https://discord.gg/yueNYce8tm |
 
 Press copies: Steam keys are available on request. Email
