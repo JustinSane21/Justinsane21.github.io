@@ -5,7 +5,6 @@ A football roguelike deckbuilder from JustinSane Games
 
 >>> FREE DEMO ON STEAM JUNE 12 <<<
 Playable during Steam Next Fest, June 15-22, 2026.
-[FILL IN: demo Steam page link]
 
 
 -----------------------------------------------------------
@@ -19,7 +18,7 @@ FACT SHEET
 | **Platforms** | Steam (Windows, macOS, Linux) |
 | **Demo** | June 12, 2026 (free, live through Steam Next Fest) |
 | **Release** | July 2026 |
-| **Price** | $17.99 USD [FILL IN: launch discount %, or delete this bracket] |
+| **Price** | $17.99 USD 15% off launch discount |
 | **Players** | Single-player |
 | **Steam App ID** | 4466560 |
 | **Steam page** | https://store.steampowered.com/app/4466560/4th__Goal/ |
@@ -129,23 +128,27 @@ Content creators often prefer footage they can talk over.
 SCREENSHOTS
 -----------------------------------------------------------
 
-[FILL IN: link to screenshots .zip — still need to capture these.
-Aim for 6-8 PNGs at 1920x1080+, no watermarks: field action
-mid-play, the card hand / play-call UI, the Gauntlet map, the
-Season hub, a resolution animation.]
-
+![Screenshot 1](20260611214816_1.jpg)
+![Screenshot 2](20260611214842_1.jpg)
+![Screenshot 3](20260611215007_1.jpg)
+![Screenshot 4](20260611215041_1.jpg)
+![Screenshot 5](20260611215048_1.jpg)
+![Screenshot 6](20260611215114_1.jpg)
+![Screenshot 7](20260611215128_1.jpg)
+![Screenshot 8](20260611215253_1.jpg)
+![Screenshot 9](20260611215321_1.jpg)
+![Screenshot 10](20260611215406_1.jpg)
 
 -----------------------------------------------------------
 LOGO & KEY ART
 -----------------------------------------------------------
 
-[FILL IN: link to assets .zip]
-
-The pack includes:
-* Logo on transparent background
-* Key art in 16:9 (article headers) and 1:1 (social thumbnails)
-* Steam capsule art (main / small / vertical / tall / header)
-
+![Logo art](Logo_Art.png)
+![Header capsule](Header%20Capsule.png)
+![Library capsule](Library%20Capsule.png)
+![Library hero 1438x810](Library%20Hero%201438x810.png)
+![Library hero](Library%20Hero.png)
+![Main capsule](Main%20Capsule.png)
 
 -----------------------------------------------------------
 ABOUT THE DEVELOPER
