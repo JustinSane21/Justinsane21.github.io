@@ -118,11 +118,7 @@ football.
 TRAILER
 -----------------------------------------------------------
 
-[FILL IN: YouTube or Vimeo link — trailer still needs to be made]
-
-Raw, uncut gameplay footage is available on request — just email.
-Content creators often prefer footage they can talk over.
-
+https://www.youtube.com/watch?v=TMWxMPX3OeI
 
 -----------------------------------------------------------
 SCREENSHOTS
