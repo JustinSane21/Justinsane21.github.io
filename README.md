@@ -39,27 +39,28 @@ THE LONGER VERSION
 -----------------------------------------------------------
 
 In Fourth & Goal, every snap is a card battle. You pick a coach,
-build a deck of plays, and call your shots — each down, you and
+build a deck of plays, and call your shots 
+each down, you and
 your opponent secretly pick a play (plus a modifier if you're
 feeling clever), then watch it play out on a living top-down
 field. Did your screen pass catch their blitz? Huge gain. Did
-your deep ball run into man coverage? That's going to hurt.
+your deep ball run into zone coverage? That's going to hurt.
 
 Scheme matchups decide a lot, but so do your coach's perks, the
 star players you've signed, stamina, momentum, and even the
-weather. There's a real playbook under the hood — 8 offensive
+weather. There's a real playbook under the hood, 8 offensive
 play styles against 3 defensive schemes.
 
 The Gauntlet is the main event: a 3-act branching run, roughly
 21 nodes from kickoff to the final boss. Push through games,
 rivals, and strange events, drafting and upgrading cards between
-nodes. Score enough points before your drives run out — one loss
+nodes. Score enough points before your drives run out, one loss
 ends the run. Clear Act 3 and you can go Infinite: an endless
 streak mode with a Steam leaderboard, where the run lasts only
 as long as every single drive ends in a touchdown.
 
 Want the full sideline experience? Season Mode puts you on both
-sides of the ball — separate offensive and defensive decks,
+sides of the ball,  separate offensive and defensive decks,
 12 games, star players to manage, and a Mega Bowl to win. There's
 also Exhibition for quick one-off games and a Tutorial that
 teaches you the playbook.
